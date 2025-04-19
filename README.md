@@ -7,8 +7,9 @@
 ## 💡 Sobre mim
 
 🎓 Estudante de **Engenharia de Software** (3º semestre)  
-💻 Foco atual: Desenvolvimento orientado a objetos com Java e projetos usando arquitetura MVC  
-🚀 Desenvolvendo sistemas como **Sistema de Controle de Estoque** e **Sistema de Reservas de Hotel**  
+💻 Apaixonado por resolver problemas com tecnologia e transformar ideias em soluções funcionais  
+🧠 Em constante evolução, buscando aprender novas linguagens, ferramentas e boas práticas de desenvolvimento  
+🤝 Valorizo o trabalho em equipe, a comunicação clara e a construção de código limpo e escalável  
 📚 Sempre em busca de aprender novas tecnologias, boas práticas e metodologias ágeis
 
 ---
