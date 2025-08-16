@@ -40,7 +40,7 @@
 ## 📫 Como me encontrar
 
 - ✉️ Email: [eliseuportes5@gmail.com](mailto:eliseuportes5@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/eliseu-portes-moura-junior-b7182421a/](https://linkedin.com/in/eliseu-portes-moura-junior-b7182421a/)
+- 💼 LinkedIn: [linkedin.com/in/eliseu-portes-moura-junior/](https://linkedin.com/in/eliseu-portes-moura-junior/)
 - 🌐 Portfólio (opcional): [seusite.dev](https://seusite.dev)
 
 ---
