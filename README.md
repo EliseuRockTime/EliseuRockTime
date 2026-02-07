@@ -6,7 +6,7 @@
 
 ## 💡 Sobre mim
 
-🎓 Estudante de **Engenharia de Software** (4º semestre)  
+🎓 Estudante de **Engenharia de Software** (5º semestre)  
 💻 Apaixonado por resolver problemas com tecnologia e transformar ideias em soluções funcionais  
 🧠 Em constante evolução, buscando aprender novas linguagens, ferramentas e boas práticas de desenvolvimento  
 🤝 Valorizo o trabalho em equipe, a comunicação clara e a construção de código limpo e escalável  
