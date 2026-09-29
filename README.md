@@ -48,7 +48,7 @@
 ## 📫 Como me encontrar
 
 - ✉️ Email: [eliseuportes5@gmail.com](mailto:eliseuportes5@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/eliseu-portes-moura-junior/](https://www.linkedin.com/in/eliseu-portes-dev/)
+- 💼 LinkedIn: [Eliseu Portes Dev](https://www.linkedin.com/in/eliseu-portes-dev/)
 - 🌐 Portfólio: [Meu Portfólio](https://app-portfolio-alpha.vercel.app/)
 ---
 
